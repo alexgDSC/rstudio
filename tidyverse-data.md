@@ -27,7 +27,7 @@ If you and your group have any questions or get stuck as you work through this i
 - use pipes (%>%) to get a list of all the column names in musselData 
 - sort them alphabetically 
 
-3.3  Read through **Section 3: Selecting specific columns** and finish the following 
+3.3.3  Read through **Section 3: Selecting specific columns** and finish the following 
 - select all the columns from musselData that start with "cestode" (hint: starts_with())
 - select all the columns from musselData that do *not* start with "cestode"
 
